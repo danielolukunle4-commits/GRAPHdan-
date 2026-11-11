@@ -1,3 +1,0 @@
-/* Contact page additions */
-.page-intro{padding:70px 0 34px;background:radial-gradient(ellipse at 78% 15%,rgba(202,160,76,.12),transparent 38%),#080808;border-bottom:1px solid rgba(255,255,255,.08)}.page-intro .eyebrow{margin-bottom:18px}.page-intro h1{font-size:clamp(42px,6vw,70px);line-height:.98;letter-spacing:-.055em;margin:0 0 18px;font-weight:600}.page-intro h1 span{color:var(--gold,#c9a45c)}.page-intro p:not(.eyebrow){max-width:650px;color:#b8b8b8;line-height:1.8}.contact-section{padding-top:45px}.contact-config-note{font-size:12px;color:#8e8e8e;line-height:1.6}.form-message.error{color:#ff9a9a}.form-message.success{color:#bfe8c7}.contact-chip[aria-disabled="true"]{opacity:.55;cursor:not-allowed}
-@media(max-width:700px){.page-intro{padding:54px 0 28px}}
